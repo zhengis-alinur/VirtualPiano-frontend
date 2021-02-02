@@ -7,5 +7,6 @@ summary: One of the many things that a front-end developer has to take care of i
   will make a virtual piano in this project.<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/101</a>
 programming_language: JavaScript
 content:
+- Virtual Piano
 - Problems
 mode: Study
