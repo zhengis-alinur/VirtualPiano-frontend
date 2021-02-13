@@ -29,6 +29,26 @@ document.addEventListener("keydown", function(event) {
         sound = new Audio("sounds/J.mp3");
         sound.play();
         break;
+    case "KeyW":
+        sound = new Audio("sounds/J.mp3");
+        sound.play();
+        break;
+    case "KeyE":
+        sound = new Audio("sounds/J.mp3");
+        sound.play();
+        break;
+    case "KeyT":
+        sound = new Audio("sounds/J.mp3");
+        sound.play();
+        break;
+    case "KeyY":
+        sound = new Audio("sounds/J.mp3");
+        sound.play();
+        break;
+    case "KeyU":
+        sound = new Audio("sounds/J.mp3");
+        sound.play();
+        break;
     default:
         console.log("Warning");
         break;
